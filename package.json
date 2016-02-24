@@ -1,0 +1,30 @@
+{
+  "name": "hubot-voipms",
+  "description": "A basic adaptor to talk with hubot using a voip.ms account.",
+  "version": "0.1.0",
+  "author": "Stéphane Lussier",
+  "keywords": [
+    "hubot-voipms adapter"
+  ],
+  "devDependencies": {
+    "coffee-script": "1.1.3"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "hubot": ">=2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/urlisse/hubot-voipms.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urlisse/hubot-voipms/issues"
+  },
+  "homepage": "https://github.com/urlisse/hubot-voipms#readme",
+  "main": "src/voipms",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
